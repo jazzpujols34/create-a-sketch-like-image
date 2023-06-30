@@ -11,4 +11,3 @@ cv2.imwrite("invblur.png", inverted_blurred)
 pencil_sketch = cv2.divide(gray_image, inverted_blurred, scale=256.0)
 cv2.imwrite("Sketch.png", pencil_sketch)
 
-https://github.com/jazzpujols34/create-a-sketch-like-image.git
