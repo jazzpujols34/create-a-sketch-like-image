@@ -34,4 +34,7 @@ Run the script. The script will generate several images in the process of creati
 
 - `Sketch.png`: This is the final pencil sketch image.
 
+![Sketch](https://github.com/jazzpujols34/create-a-sketch-like-image/assets/62235508/edcc42df-fc5a-44fa-8583-f803bbe3fee6)
+
+
 Enjoy creating pencil sketches from your images!
